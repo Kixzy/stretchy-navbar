@@ -173,7 +173,7 @@ header nav ul li a.active span {
 }
 
 .home {
-  background-image: url("background.jpg");
+  background-image: url("https://res.cloudinary.com/kixzy/image/upload/v1592925742/Profile%20Project/Su-2010-Feature-300x200_nd2ntl.jpg");
   min-height: 100vh;
   background-size: cover;
   background-position: center;
